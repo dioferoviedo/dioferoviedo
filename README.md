@@ -19,7 +19,7 @@
 
    <br>
    
-## 🔭 I’m currently studying...
+   ## 🔭<b> I’m currently studying... </b>
    
   <div>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" /></a>
@@ -30,7 +30,7 @@
 
    <br><br>
   
-## 📫 Contact me:
+   ## 📫 <b> Contact me: </b>
 
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
