@@ -1,4 +1,4 @@
-# <i>Hello, world!</i>
+# <i>Hello, world!</i><br>
 <div>
   🌎 Porto Alegre, Brazil 
   </div>
@@ -7,12 +7,13 @@
  <blockquote><i><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.<br>
  - Plato.</i></font></blockquote>
 </div>
+<br>
 <div>
 <a href="https://github.com/dioferoviedo">
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-  <br><br>
+  <br>
  <div> 
  <a href="https://github.com/dioferoviedo">
  <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="200" height="200" /> 
