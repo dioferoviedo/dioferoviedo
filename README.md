@@ -1,11 +1,11 @@
-#  <i>Hello, world!</i>
+# <i>Hello, world!</i>
 <div>
-  📍 <i> Porto Alegre, Brazil </i>
+  🌎 Porto Alegre, Brazil 
   </div>
   <br>
   <div>
- <blockquote><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.
-  <br> - Plato.</font></blockquote>
+ <blockquote><i><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.<br>
+ - Plato.</i></font></blockquote>
 </div>
 <div>
 <a href="https://github.com/dioferoviedo">
