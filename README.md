@@ -4,7 +4,8 @@
   </div>
   <br>
   <div>
- <blockquote><font face="Arial">A compensação consiste, portanto, em um convite e um direito à crueldade. Nietzsche.</font></blockquote>
+ <blockquote><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.
+  <br> - Plato.</font></blockquote>
 </div>
 <br>
 <div>
