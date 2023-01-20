@@ -1,27 +1,25 @@
 #  <i>Hello, world!</i>
 <div>
-<font face="Arial">Just a young guy working hard to make his dreams come true.</font><br>
-  <br>
   📍 <i> Porto Alegre, Brazil </i>
-<br>
+  </div>
+  <br>
+  <div>
+ <blockquote><font face="Arial">A compensação consiste, portanto, em um convite e um direito à crueldade. Nietzsche.</font></blockquote>
 </div>
 <br>
-
 <div>
 <a href="https://github.com/dioferoviedo">
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-  <br>
+  <br><br>
  <div> 
  <a href="https://github.com/dioferoviedo">
- <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="190" height="190" /> 
- </div>
-
-   <br>
+ <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="170" height="170" /> 
+   </div>
    
    ## 🔭<b> I’m currently studying... </b>
-   
+     
   <div>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
@@ -31,7 +29,7 @@
 
    <br><br>
   
-   ## 📫 <b> Contact me: </b>
+   ## 📫 <b> Contact me: </b><br>
 
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
