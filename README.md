@@ -8,10 +8,12 @@ Just a young guy working hard to make his dreams come true.
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
+  
 <br><br>
-  
+ <div> 
  <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="190" height="190" /> 
-  
+  <div>
+    
 ### 🔭 I’m currently studying...
  
   <div>
@@ -19,8 +21,8 @@ Just a young guy working hard to make his dreams come true.
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /></a>
   </div>
+  
   <br><br>
-
   
 ### 📫 Contact me:
 
