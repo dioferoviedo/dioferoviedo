@@ -7,7 +7,6 @@
  <blockquote><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.
   <br> - Plato.</font></blockquote>
 </div>
-<br>
 <div>
 <a href="https://github.com/dioferoviedo">
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
@@ -20,7 +19,6 @@
    </div>
    
    ## <b> I’m currently studying... </b>
-     
   <div>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
@@ -30,10 +28,12 @@
 
    <br><br>
   
-   ## <b> Contact me: </b><br>
-
+   ## <b> Contact me: </b>
+   
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:dioferteonilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <br>
+  <br>
 </div>
