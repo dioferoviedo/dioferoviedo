@@ -19,7 +19,7 @@
  <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="170" height="170" /> 
    </div>
    
-   ## 🔭<b> I’m currently studying... </b>
+   ## <b> I’m currently studying... </b>
      
   <div>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" /></a>
@@ -30,7 +30,7 @@
 
    <br><br>
   
-   ## 📫 <b> Contact me: </b><br>
+   ## <b> Contact me: </b><br>
 
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
