@@ -8,6 +8,15 @@ Just a young guy working hard to make his dreams come true.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## 🔭 I’m currently studying...
+  <div>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /></a>
+    
+  </div>
+  
+  
 ## Contacts:
 
 <div>
@@ -15,6 +24,7 @@ Just a young guy working hard to make his dreams come true.
 <a href = "mailto:dioferteonilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
 <!--
