@@ -7,11 +7,12 @@ Just a young guy working hard to make his dreams come true.
 <a href="https://github.com/dioferoviedo">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <br><br>
-<img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="180" height="180" /> 
   </div>
 <br><br>
   
+<img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1047363972246012005/1065852693429616701/download20230105012656-removebg-preview.png" width="180" height="180" /> 
+
+
 ### 🔭 I’m currently studying...
  
   <div>
