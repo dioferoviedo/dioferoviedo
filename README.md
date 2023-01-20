@@ -1,13 +1,16 @@
 #  <i>Hello, world!</i>
-
-Just a young guy working hard to make his dreams come true. 
+<div>
+<font face="Arial">Just a young guy working hard to make his dreams come true.</font><br>
+🛹 🏈 🥦 👨‍💻 
+<br>
+</div>
+<br>
 
 <div>
 <a href="https://github.com/dioferoviedo">
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-  
   <br>
  <div> 
  <a href="https://github.com/dioferoviedo">
@@ -16,17 +19,18 @@ Just a young guy working hard to make his dreams come true.
 
    <br>
    
-### 🔭 I’m currently studying...
- 
+## 🔭 I’m currently studying...
+   
   <div>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" /></a>
-    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /></a>
   </div>
 
    <br><br>
   
-### 📫 Contact me:
+## 📫 Contact me:
 
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
