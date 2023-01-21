@@ -24,7 +24,7 @@
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /></a>
     <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
-    <a  target="_blank"><img src="https://cdn.discordapp.com/attachments/1017597007398977558/1065892121694982234/670020.png" width="50" height="50" /></a>
+    <a  target="_blank"><img src="https://cdn.discordapp.com/attachments/1064757211072565249/1066284709488906311/icons8-github-128.png" width="50" height="50" /></a>
   </div>
 
    <br><br>
