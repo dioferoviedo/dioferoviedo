@@ -16,7 +16,7 @@
   <br>
  <div> 
  <a href="https://github.com/dioferoviedo">
- <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1031919601623244970/1066450160676241470/Picsart_23-01-21_12-31-01-381-removebg.png" width="280" height="250" /> 
+ <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1031919601623244970/1066450160676241470/Picsart_23-01-21_12-31-01-381-removebg.png" width="250" height="220" /> 
    </div>
    
    ## <b> I’m currently studying... </b>
