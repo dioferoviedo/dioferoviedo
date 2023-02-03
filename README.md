@@ -21,10 +21,10 @@
    
    ## <b> I’m currently studying... </b>
   <div>
-    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" /></a>
-    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" /></a>
-    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" /></a>
-    <a  target="_blank"><img src="https://cdn.discordapp.com/attachments/1064757211072565249/1066284709488906311/icons8-github-128.png" width="60" height="60" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /></a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" /></a>
+    <a  target="_blank"><img src="https://cdn.discordapp.com/attachments/1064757211072565249/1066284709488906311/icons8-github-128.png" width="50" height="50" /></a>
   </div>
 
    <br><br>
@@ -40,5 +40,5 @@
 </div>
    <br>
 <p align="right">
-<img src ="https://visitcount.itsvg.in/api?id=dioferoviedo&style=plastic=2&color=#244">
+<img src ="https://visitcount.itsvg.in/api?id=dioferoviedo&style=plastic=2&color=#2f69b4">
 </p>
