@@ -53,16 +53,16 @@ Studying hard and finding my best version in this tech world. Have you found you
    
 <div>
   <a href="https://www.instagram.com/diofer/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img height="28em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dioferteonilo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img height="28em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <br>
   <br>
   
 </div>
    <br>
   <p align="right">
-  <img src ="https://visitcount.itsvg.in/api?id=dioferoviedo&style=plastic=2&color=#3f69b4">
+  <img height="20em" src ="https://visitcount.itsvg.in/api?id=dioferoviedo&style=plastic=2&color=#3f69b4">
 </p>
