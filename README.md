@@ -49,7 +49,7 @@ Studying hard and finding my best version in this tech world. Have you found you
 
    <br><br>
   
-   ## <b> Contact me: </b>
+   ## <b> ➥ Contact me: </b>
    
 <div>
   <a href="https://www.instagram.com/diofer/" target="_blank">
