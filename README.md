@@ -13,8 +13,8 @@ Studying hard and finding my best version in this tech world. Have you found you
   
 <div>
   <a href="https://github.com/dioferoviedo">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dioferoviedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dioferoviedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
 </div>
   
