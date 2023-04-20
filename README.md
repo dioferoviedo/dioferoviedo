@@ -1,5 +1,5 @@
 # <i> Hello, world! </i> </h1>
- I'm **Diofer** but you can call me **Dio**! Dev Java trying to switch to Python 😬 <br> 
+ I'm **Diofer** but you can call me **Dio**! Dev Java <br> 
 Studying hard and finding my best version in this tech world. Have you found yours yet?
 
 <div>
