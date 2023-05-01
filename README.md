@@ -62,7 +62,7 @@ Studying hard and finding my best version in this tech world. Have you found you
   <img height="28em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank">
   <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img height="28em" src="https://img.shields.io/badge/dio≢9617-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+  <img height="28em" src="https://img.shields.io/badge/dio≢9716-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
   <br>
   <br>
   
