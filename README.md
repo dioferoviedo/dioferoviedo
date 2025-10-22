@@ -5,7 +5,6 @@ Studying hard and finding my best version in this tech world. Have you found you
 <div>
   
   🌎 <b>Porto Alegre, Brazil</b> <br>
-  🛎️ <b>Open to work!</b>
   
 </div>
 
