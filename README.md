@@ -17,8 +17,6 @@ Studying hard and finding my best version in this tech world. Have you found you
     
 </div>
   
-  <br>
-  
 <div>
   <blockquote><i><font face="Arial">And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul.<br>
  - Plato.</i></font></blockquote>
@@ -29,7 +27,6 @@ Studying hard and finding my best version in this tech world. Have you found you
 <div> 
   
   <a href="https://github.com/dioferoviedo">
-  <img align="right" alt="Dio-avt" src="https://cdn.discordapp.com/attachments/1031919601623244970/1066450160676241470/Picsart_23-01-21_12-31-01-381-removebg.png" width="220" height="190" /> 
     
 </div>
    
@@ -59,9 +56,8 @@ Studying hard and finding my best version in this tech world. Have you found you
   <img height="28em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dioferteonilo@gmail.com">
   <img height="28em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dioferteonilo/" target="_blank">
+  <a href="https://www.linkedin.com/in/dioferoviedo/" target="_blank">
   <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img height="28em" src="https://img.shields.io/badge/dio≢9716-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
   <br>
   <br>
   
