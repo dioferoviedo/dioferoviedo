@@ -1,5 +1,4 @@
-# <i> Hello, world! </i> </h1>
- I'm **Diofer** but you can call me **Dio**! <br> 
+# <i> Hello, world! </i> </h1>  
 
 <div>
   
