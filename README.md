@@ -56,9 +56,5 @@
   <img height="28em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
   <br>
   <br>
-  
-</div>
-   <br>
-  <p align="right">
-  <img height="20em" src ="https://visitcount.itsvg.in/api?id=dioferoviedo&style=plastic=2&color=#3f69b4">
+
 </p>
